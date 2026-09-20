@@ -1,0 +1,36 @@
+#chutiya{
+    text-align: center;
+}
+.jha18{
+    border: 2px black solid;
+    padding: 10px 5px;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: 200px 150px 100px;
+    column-gap: 10px;
+    text-align: center;
+    row-gap: 10px;
+    margin-top: 10px;
+}
+#okay{
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    background-color: lightgreen;
+}
+#aj{
+    font-size: larger;
+    font-weight: 200;
+    text-transform: capitalize;
+    text-align: center;
+}
+#lund{
+    height: 41px;
+    width: 100px;
+    background-color: rgb(235, 69, 69);
+    border: none;
+    border-radius: 11px;
+    cursor: pointer;
+    margin-top: -7px;
+}
